@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-Note: For the node_modules folder, type ### `npm install`.
+Note: For the node_modules folder, type: `npm install`.
 
 
 ## Available Scripts
